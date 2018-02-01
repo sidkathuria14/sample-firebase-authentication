@@ -17,7 +17,7 @@
     <TextView
         android:id="@+id/tvStatus"
         android:layout_marginTop="30sp"
-        android:text="you ae currently logged out"
+        android:text="you are currently logged out"
         android:textSize="20sp"
         android:gravity="center"
         android:layout_gravity="center"
